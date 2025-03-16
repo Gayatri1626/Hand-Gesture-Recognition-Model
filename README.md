@@ -1,7 +1,3 @@
-# Hand-Gesture-Recognition
-
-### README
-
 # Gesture Recognition and Face Authentication System
 
 This project involves a gesture recognition system combined with face authentication. It leverages OpenCV for computer vision tasks, CVZone for hand tracking, and the Twilio API for sending notifications.
